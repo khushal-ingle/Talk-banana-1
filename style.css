@@ -58,7 +58,7 @@ p {
 }
 
 #output {
-  height: 6rem;
+  height: 4rem;
   border: 1px solid var(--black);
   padding: 2px;
   width: 100%;
@@ -75,7 +75,7 @@ footer {
   border-top-left-radius: 2rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 500px) {
   footer {
     position: fixed;
     width: 100%;
