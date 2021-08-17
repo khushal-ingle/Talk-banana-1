@@ -25,12 +25,12 @@ p {
 }
 
 .input-btn-output-container {
-  max-width: 600px;
+  max-width: 500px;
   padding: 3rem 1rem 2.5rem;
   margin: auto;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .input-btn-output-container {
     display: flex;
     flex-direction: column;
@@ -89,6 +89,6 @@ footer h2 {
 }
 
 footer p {
-  max-width: 600px;
+  max-width: 500px;
   margin: auto;
 }
